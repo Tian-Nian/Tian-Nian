@@ -38,6 +38,7 @@ I work on **real-robot Embodied AI**: robot control, teleoperation and data coll
 
 > Full list on [Google Scholar](https://scholar.google.com/citations?user=V555uv8AAAAJ&hl=zh-CN) · [Homepage](https://tian-nian.github.io/#publications)
 
+- **[arXiv 26]** Spark-0: Scaling Spatially Aligned Tactile Pretraining for Robot Dexterous Manipulation, *Tianxing Chen\*, Wenwei Lin\*, Chuqiao Lyu\*, Peicheng Xiang\*, Junyuan Tang\*, **Tian Nian\***, et al.* · [Webpage](https://xsparkai.com/Spark-0/) / [Paper](https://arxiv.org/abs/2610.22342)
 - **[arXiv 25]** Control Your Robot: A Unified System for Robot Control and Policy Deployment, ***Tian Nian***, *et al.* · [Paper](https://arxiv.org/abs/2509.23823) / [Code](https://github.com/Tian-Nian/control_your_robot)
 - **[IROS 26 Workshop]** XPolicyLab: A Unified Standard and Open Ecosystem for Robot Policy Evaluation and Deployment, *Tianxing Chen\*, Yue Chen\*, **Tian Nian\***, et al.* · [Webpage](https://xpolicylab.github.io/) / [Paper](https://arxiv.org/abs/2608.09892) / [Code](https://github.com/XPolicyLab/XPolicyLab) 🏆 *Best Tool Paper Award*
 - **[ICML 26]** RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation · [Webpage](https://robotwin-platform.github.io/) / [Paper](https://arxiv.org/abs/2506.18088) / [Code](https://github.com/RoboTwin-Platform/RoboTwin)
